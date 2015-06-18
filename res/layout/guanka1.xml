@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<FrameLayout  xmlns:android="http://schemas.android.com/apk/res/android"     
+    android:layout_width="fill_parent"     android:layout_height="fill_parent"     
+    android:orientation="vertical"     android:id="@+id/mainlayout" android:background="@drawable/background2">
+    <ImageView
+           android:id="@+id/trap0"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:scaleType="fitXY"
+           android:src="@drawable/trap" />
+    <ImageView 
+           android:id="@+id/trap1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:scaleType="fitXY"
+           android:src="@drawable/trap"/>
+   
+    <ImageView 
+           android:id="@+id/food0"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:scaleType="fitXY"
+           android:src="@drawable/food"/>
+    <ImageView 
+           android:id="@+id/home0"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:scaleType="fitXY"
+           android:src="@drawable/home"/>
+    
+    </FrameLayout>

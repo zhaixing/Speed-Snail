@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Speed Snail</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_txt_1">小蜗牛迷路了，帮它找到回家的路吧！</string>
+    <string name="help_txt_2">在屏幕上划线，指引小蜗牛回家:</string>
+    <string name="help_txt_3">它会按规律调转方向的,可是如果在它身上划过时，路线是随机的。注意绕开路上的陷阱哦！</string>
+<string name="next">Next</string>
+	<string name="restart">Restart</string>
+	<string name="new_round">Congrats！ Ant will speed up.</string>
+</resources>
